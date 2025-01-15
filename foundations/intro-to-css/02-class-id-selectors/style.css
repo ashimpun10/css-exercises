@@ -1,0 +1,16 @@
+p{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#se{
+    color: blue;
+    font-size: 36px;
+}
+#th{
+    font-size: 24px;
+}
+#fo{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
